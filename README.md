@@ -240,4 +240,4 @@ This repository serves as the official landing page for PHP-Nuke. The software i
 **Get the most recent version of PHP-Nuke today!**
 
 ---
-**Last updated:** 2026-09-25 22:09:23 UTC
+**Last updated:** 2026-09-26 01:22:46 UTC
